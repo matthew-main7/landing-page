@@ -126,3 +126,30 @@
     font-weight: 700;
     text-align: end;
 }
+
+.cta-section {
+    padding: 128px 300px;
+}
+
+.cta-box {
+    display: flex;
+    color: #f9faf8;
+    background-color: #3882f6;
+    padding: 48px 128px;
+    border-radius: 5px;
+    align-items: center;
+}
+
+.cta-text {
+    display: flex;
+    flex-direction: column;
+    margin-right: auto;
+}
+
+.cta-button {
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border: 2px solid #e5e7eb;
+    border-radius: 5px;
+    padding: 4px 24px;
+}
