@@ -8,7 +8,7 @@
 
 .header,
 .hero-section {
-    padding: 16px 250px 75px;
+    padding: 16px 400px 75px;
 }
 
 .header {
@@ -68,6 +68,7 @@
 
 .random-section{
     margin-bottom: 128px;
+    
 }
 
 .random-title {
@@ -81,7 +82,7 @@
 .random-items{
     display: flex;
     justify-content: center;
-    gap: 64px;
+    gap: 96px;
 }
 
 .random-item-one,
@@ -152,4 +153,11 @@
     border: 2px solid #e5e7eb;
     border-radius: 5px;
     padding: 4px 24px;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #e5e7eb;
+    text-align: center;
+    padding: 32px;
 }
