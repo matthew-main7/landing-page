@@ -66,9 +66,13 @@
     padding: 4px 18px;
 }
 
+.random-section{
+    margin-bottom: 128px;
+}
+
 .random-title {
     text-align: center;
-    margin: 32px 0;
+    margin: 48px 0;
     font-size: 36px;
     font-weight: 900;
     color: #1F2937;
@@ -104,4 +108,21 @@
     font-size: 19px;
     max-width: 170px;
     text-align: center;
+}
+
+.quote-section {
+    background-color: #e5e7eb;
+    padding: 100px 400px;
+}
+
+.the-quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+}
+
+.the-author {
+    font-size: 24px;
+    font-weight: 700;
+    text-align: end;
 }
